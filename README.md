@@ -27,7 +27,13 @@ The code requires:
 
 ## Usage
 
-Run `quantum_circuit_simulator.py` to launch the simulator.
+1. Download the entire repository, including the `images` folder.
+2. Install the required Python packages.
+3. Run the simulator:
+
+   python quantum_circuit_simulator.py
+
+Make sure the `images` folder is in the same directory as the Python script, as it contains the images used for the quantum gates.
 
 Drag quantum gates onto the circuit and click **Calculate** to display the measurement probabilities.
 
