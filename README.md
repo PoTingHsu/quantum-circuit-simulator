@@ -27,7 +27,7 @@ The code requires:
 
 ## Usage
 
-Run `ibmq simulator1.py` to launch the simulator.
+Run `quantum_circuit_simulator` to launch the simulator.
 
 Drag quantum gates onto the circuit and click **Calculate** to display the measurement probabilities.
 
