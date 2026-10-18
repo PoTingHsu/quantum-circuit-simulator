@@ -36,7 +36,7 @@ The code requires:
 
 Make sure the `images` folder is in the same directory as the Python script, as it contains the images used for the quantum gates.
 
-Drag quantum gates onto the circuit and click **Calculate** to display the measurement probabilities and a preliminary Bloch sphere visualization..
+Drag quantum gates onto the circuit and click **Calculate** to display the measurement probabilities and a preliminary Bloch sphere visualization.
 
 For the CNOT gate, place it on the first (upper) qubit line. The gate acts on both qubits, with the first qubit as the control and the second as the target.
 
