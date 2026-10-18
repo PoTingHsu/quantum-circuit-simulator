@@ -24,6 +24,7 @@ The code requires:
 - Matplotlib
 - Pillow
 - VPython
+- setuptools<81
 
 ## Usage
 
